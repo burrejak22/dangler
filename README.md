@@ -26,7 +26,7 @@ someone else's subdomains without permission is, at best, rude.
 ## Install
 
 ```bash
-npm install -g dangler
+npm install -g @burrejak/dangler
 ```
 
 Or run from source (no dependencies, just node):
